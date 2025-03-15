@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-    <td><strong>Automation & Tools</strong></td>
+    <td>Automation & Tools</td>
     <td>
       <img src="https://img.shields.io/badge/Playwright-00B0D7?style=flat&logo=playwright&logoColor=white" alt="Playwright Badge" />
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium Badge" />
