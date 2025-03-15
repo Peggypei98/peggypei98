@@ -88,7 +88,6 @@
         <img src="https://img.shields.io/badge/LangChain-00A1D4?style=flat&logo=language&logoColor=white" alt="LangChain Badge" />
         <img src="https://img.shields.io/badge/LLMs-000000?style=flat&logo=llm&logoColor=white" alt="LLMs Badge" />
         <img src="https://img.shields.io/badge/NLP-0077B5?style=flat&logo=language&logoColor=white" alt="NLP Badge" />
-        <img src="https://img.shields.io/badge/GenAI-FF4081?style=flat&logo=genai&logoColor=white" alt="GenAI Badge" />
         <img src="https://img.shields.io/badge/OpenAI-25D366?style=flat&logo=openai&logoColor=white" alt="OpenAI Badge" />
       </td>
     </tr>
